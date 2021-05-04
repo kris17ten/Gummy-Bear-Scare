@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="f47" size="1.000000 1.000000" />
+    <ImageTarget name="f58" size="1.000000 1.006289" />
+    <ImageTarget name="f81" size="1.000000 1.019231" />
+    <ImageTarget name="f88" size="1.000000 1.025157" />
+    <ImageTarget name="f91" size="1.000000 1.025157" />
+    <ImageTarget name="f92" size="0.500000 0.506250" />
+    <ImageTarget name="f57" size="1.000000 1.006289" />
+    <ImageTarget name="f36" size="1.000000 1.019355" />
+    <ImageTarget name="f30" size="1.000000 1.032467" />
+    <ImageTarget name="f45" size="0.500000 0.509677" />
+    <ImageTarget name="f38" size="0.500000 0.506410" />
+    <ImageTarget name="f35" size="0.500000 0.512903" />
+    <ImageTarget name="f11" size="0.500000 0.506369" />
+    <ImageTarget name="f10" size="0.500000 0.509615" />
+    <ImageTarget name="f9" size="0.500000 0.506369" />
+    <ImageTarget name="f8" size="0.500000 0.503185" />
+    <ImageTarget name="f7" size="0.500000 0.506410" />
+    <ImageTarget name="f6" size="0.500000 0.503185" />
+    <ImageTarget name="f5" size="0.500000 0.506369" />
+    <ImageTarget name="f4" size="0.500000 0.509615" />
+    <ImageTarget name="f3" size="0.500000 0.506369" />
+    <ImageTarget name="f2" size="0.500000 0.503185" />
+    <ImageTarget name="f1" size="0.500000 0.506410" />
+    <ImageTarget name="f0" size="0.500000 0.509615" />
+  </Tracking>
+</QCARConfig>
